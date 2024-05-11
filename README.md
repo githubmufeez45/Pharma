@@ -466,7 +466,7 @@ Publish the website in the LocalHost.
 
 ## OUTPUT:
 
-![Screenshot 2024-05-11 181917](https://github.com/githubmufeez45/Pharma/assets/134826568/1e5af87d-1309-4dea-a326-fd2749da0b95)
+![Screenshot 2024-05-11 181917](https://github.com/githubmufeez45/Pharma/assets/134826568/15c8b074-d004-4b1b-8009-8939fedf7142)
 
 ![Screenshot 2024-05-11 182049](https://github.com/githubmufeez45/Pharma/assets/134826568/daa42232-91d0-443a-8ed5-6306539f2ae8)
 
